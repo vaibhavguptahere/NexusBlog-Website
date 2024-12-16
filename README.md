@@ -49,4 +49,5 @@ To run the project locally, follow these steps:
 *Home page displaying the carousel and featured blogs.*
 
 ![Blog Listing](https://i.postimg.cc/9Mth1TK8/Screenshot-2024-12-16-160307.png)
+
 *Blog post section with categories and blog thumbnails.*
